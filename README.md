@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Antonin, an independent software developper
-- 🛠 I am currently working on an ASP .NET Core MVC Web App for All Connected IT
-- 🌍 Discover them and their services on all-connected.it
+- 👋 Hi, I’m Antonin, a fullstack software developper
+- 🛠 I have recently been working on an ASP .NET Core MVC Web App, .NET REST APIs, Angular SPAs and a React Electron desktop app.
 
 <!---
 atosinin/atosinin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
